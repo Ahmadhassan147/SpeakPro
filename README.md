@@ -3,8 +3,6 @@
 
 ## Description
 
-```markdown
-
 **SpeakPro** is an innovative AI-based tool designed to help students prepare for the IELTS speaking module. Our mission is to provide personalized, real-time feedback to enhance the speaking skills of users, making them more confident and proficient for their exams. SpeakPro conducts mock speaking interviews, evaluates performance, and highlights both strengths and weaknesses within minutes.
 
 ## Features
@@ -14,8 +12,6 @@
 - **Strengths and Weaknesses Analysis**: Understand your strengths and areas that need work to better focus your study efforts.
 - **Real-Time Results**: Get immediate feedback after each session, allowing for quick and effective practice.
 - **User-Friendly Interface**: Navigate through an intuitive design that makes the preparation process straightforward and enjoyable.
-```
-
 
 ## Prerequisities
 
