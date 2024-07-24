@@ -1,0 +1,51 @@
+Question: What's your name?
+Answer: My name is Ahmed Hassan.
+
+Question: What do you do?
+Answer: I am a student of information technology at University of Agriculture, Faslabaddeze.
+
+Question: Do you live in a house or an apartment?
+Answer: I live in a house with my family and my two siblings, a younger brother and an elder sister.
+
+Question: How do you usually travel to work or university?
+Answer: As I live in university hostels, so we usually travel to university by university shuttles. Sometimes we go on foot as well.
+
+Question: What's your favorite season of the year?
+Answer: Honestly speaking, I really like the winter season as it's too cold. And I really like cold in summers. It's too sweaty everywhere and it's too hot. It's difficult for anyone to go out. That's why I really like the winter season.
+
+Question: Do you prefer to spend time alone or with friends?
+Answer: Oh, it's actually a spectacular question. I really love to spend my time alone as I really enjoy my own company rather than other sitting in friends or just like, gatherings. So I really enjoy my own company.
+
+Question: What's the most interesting thing about your hometown?
+Answer: I really love to talk about my hometown. The most interesting thing in my hometown is its cuisine. It's too tasty, and you can get a lot of types of cuisine here in my hometown.
+
+Question: Do you have a favorite hobby or activity?
+Answer: Yes, I do have a favorite hobby, as a lot of people have. My favorite hobby is to doing programming and building different projects and collab with the open source projects.
+
+Question: Have you ever learned a new skill or taken a course online?
+Answer: Yes. I am a computer student and it's really a normal thing for us to take a course online. Recently, I have completed a python course from Coursera, so, yeah, it's normal for us.
+
+Question: Describe a photo you took that is special.
+Answer: Recently, it's raining outside and I was in a garden which is very near to my house. And this garden contains a lot of flowers. And there I took a photo of lily flower. The photo is very special for me because this floor is very favorite flower of my mother. And after taking the photo, I just edited it a little and I sent this photo to my mother. And the other reason is because I took this photo in my very favorite mobile phone, which is iPhone 14 Pro Max. And then I edited this photo using the canva Pro because I love editing. And this photo is very special for me that I took on that day.
+
+Question: 1. What made you decide to capture that particular moment in the photo?
+Answer: As I previously mentioned, this floor is my mother's favorite floor. And recently, he asked me to find a wallpaper for her mobile phone which contained the lily floor. That's why it decided me to take that picture at that moment. So that I can make a wallpaper for my mother. That's why I took that picture.
+
+Question: 2. Did you show the photo to anyone, and what was their reaction?
+Answer: Yes. I show this photo to my mom and she was very happy by seeing his favorite flower. And I was also very happy. And I also show this photo to my siblings as well.
+
+Question: 3. Do you think taking photos helps to preserve memories, or is it just a way to show off on social media?
+Answer: Definitely. Photos is a very good way to preserve memories. It's not like to show off on social media. Whenever you see an old photo, it directly connect you with that event or that instance. At that time, you capture a photo and you can recall all the memories of your past by seeing these photos.
+
+Question: 4. In what ways do you think photography has changed the way we experience and remember events?
+Answer: It changed the way a lot. We remember the events as we can get more in touch with the events, we can feel more as we are present at that time, and it provides us more visual representation of the events. So, yeah, it's changed a lot as we experience and remember the events.
+
+Question: 5. Should people focus more on living in the moment rather than trying to capture it on camera?
+Answer: In my opinion, people should do the both things as if they, like, really live at that moment. They can feel more happiness and it will be a more player thing for them. But it's also important to capture these happy moments, to remember or recall that moment in the future, which will reconnect the people to that moments again. So I think it's important to live the moments at the time and also capture them for the future.
+
+Question: 6. Do you believe that the rise of smartphone cameras has made people better photographers, or has it just made them more prolific?
+Answer: So I think the smartphones made people a better photographer as it provide a lot of opportunities to the photographer. For example, firstly, people can capture photographs very easily and very conveniently and practice their skills to improve their photography skill. Other than that, with the advancement in the smartphones, the cameras are also got advanced. Like there are more, you can say more higher quality lens in the cameras and other higher quality sensor used in the cameras. So all these things make them people a best photographer of their older versions.
+
+Question: 7. Can a photo ever truly capture the essence of a moment, or is it always just an approximation?
+Answer: Opinion, you can say a photo can truly capture the essence of the photo, as there are a lot of advancement in the cameras which can capture so much realistic images in our days. So, yeah, photos can capture the real essence as well.
+

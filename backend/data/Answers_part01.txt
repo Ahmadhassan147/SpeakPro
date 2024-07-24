@@ -1,0 +1,24 @@
+Question: What's your name?
+Answer: Hello, my name is Ridithe.
+
+Question: What do you do?
+Answer: Hello. Hello.
+
+Question: Do you like living in a big city or a small town?
+Answer: Big city.
+
+Question: How often do you use the internet?
+Answer: Post every minute.
+
+Question: What's your favorite type of music?
+Answer: Jazz. Jazz music.
+
+Question: Do you prefer to spend time with your family or friends?
+Answer: Yes, of course.
+
+Question: What's the most interesting thing you've learned recently?
+Answer: 
+
+Question: Do you like trying new foods or do you prefer to stick to what you know?
+Answer: 
+

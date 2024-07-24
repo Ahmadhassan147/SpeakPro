@@ -1,0 +1,9 @@
+What's your name?
+What do you do?
+Do you live in a house or an apartment?
+How do you usually travel to work or university?
+What's your favorite season of the year?
+Do you prefer to spend time alone or with friends?
+What's the most interesting thing about your hometown?
+Do you have a favorite hobby or activity?
+Have you ever learned a new skill or taken a course online?
